@@ -27,7 +27,6 @@ list_of_files = [
     "Dockerfile",
     "README.md",
     ".dvcignore",
-    "dvc.lock",
     "dvc.yaml",
     "requirements.txt",
     "setup.py"]

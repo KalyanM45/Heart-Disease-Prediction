@@ -1,6 +1,7 @@
 # Heart Disease Prediction
 
-- LinkedIn [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan/)
+- LinkedIn [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan)
+
 - Medium [KalyanMurapaka274](https://medium.com/@kalyanmurapaka274)
 
 
