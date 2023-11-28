@@ -11,6 +11,7 @@ This dataset gives information related to heart disease. The dataset contains 13
 <br><be>
 
 <h3>Attributes:</h3> 
+
  - Age 
  - Gender 
  - Chest Pain Type
