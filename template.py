@@ -17,6 +17,7 @@ list_of_files = [
     f"src/{package}/components/Data_ingestion.py",
     f"src/{package}/components/Data_transformation.py",
     f"src/{package}/components/Model_trainer.py",
+    f"src/{package}/components/Model_evaluation.py",
     f"src/{package}/pipeline/__init__.py",
     f"src/{package}/pipeline/Prediction_pipeline.py",
     f"src/{package}/pipeline/Training_pipeline.py",

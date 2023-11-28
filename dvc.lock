@@ -11,14 +11,18 @@ stages:
       hash: md5
       md5: 7770bf6b09d3c8bc185054bd5573882a
       size: 3443
+    - path: src/Heart/components/Model_evaluation.py
+      hash: md5
+      md5: b767621ecc4ea53fecb62c099c3924ee
+      size: 2255
     - path: src/Heart/components/Model_trainer.py
       hash: md5
       md5: edff8e10000910e32a722b08f61405e3
       size: 3320
     - path: src/Heart/pipeline/training_pipeline.py
       hash: md5
-      md5: c61b1a0003cff5495175f34f7b99b8c1
-      size: 610
+      md5: e8343d59fbd58d654a57648e1b274b9f
+      size: 807
     outs:
     - path: Artifacts/Model.pkl
       hash: md5
