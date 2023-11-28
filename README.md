@@ -8,7 +8,9 @@ Heart disease prediction is a crucial aspect of preventive healthcare that invol
 ## About the Dataset
 
 This dataset gives information related to heart disease. The dataset contains 13 columns, target is the class variable which is affected by the other 12 columns. Here the aim is to classify the target variable to (disease\non disease) using different machine learning algorithms and find out which algorithm is suitable for this dataset.
-<br><br>
+<br><be>
+
+<h3>Attributes:</h3> 
  - Age 
  - Gender 
  - Chest Pain Type
