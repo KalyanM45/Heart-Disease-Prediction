@@ -56,7 +56,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/KalyanMurapaka45/--------------------.git
+     git clone https://github.com/KalyanMurapaka45/Heart-Disease-Prediction.git
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
@@ -99,13 +99,13 @@ If you prefer to use Docker, you can install and run the project using a Docker 
    - Open your terminal or command prompt.
    - Run the following command to pull the Docker image from DockerHub:
      ```
-     docker pull kalyan45/movierecommend-app
+     docker pull kalyan45/heart-app
      ```
 
 2. **Run the Docker Container**
    - Start the Docker container by running the following command, and mapping any necessary ports:
      ```
-     docker run -p 5000:5000 kalyan45/movierecommend-app
+     docker run -p 5000:5000 kalyan45/heart-app
      ```
 
 3. **Access the Project**
@@ -114,7 +114,7 @@ If you prefer to use Docker, you can install and run the project using a Docker 
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
