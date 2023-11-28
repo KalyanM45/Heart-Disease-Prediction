@@ -6,7 +6,6 @@ stages:
       - src/Heart/components/Data_ingestion.py
       - src/Heart/components/Data_transformation.py
       - src/Heart/components/Model_trainer.py
-      - src/Heart/components/Model_evaluation.py
 
     outs:
       - Artifacts/raw_data.csv
